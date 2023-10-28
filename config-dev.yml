@@ -1,1 +1,3 @@
-this is a test yml file
+config:
+  info: this is a test yml file
+  title: dev-config-info
